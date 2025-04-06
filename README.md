@@ -90,7 +90,6 @@ Security Builder | Lab Architect | SIEM/SOAR Engineer
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/DaxForge_README.md">
-    <img src="https://img.shields.io/badge/Next→-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Next">
   </a>
 </p>
 
