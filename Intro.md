@@ -46,5 +46,17 @@ This lab replicates enterprise-grade security workflows with **no cloud dependen
 
 ---
 
+---
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Home-000000?style=for-the-badge&logo=github&logoColor=white" alt="Home">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/DaxForge_README.md">
+    <img src="https://img.shields.io/badge/Next→-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Next">
+  </a>
+</p>
+
 > **Built by Dylan Leonard**  
 Founder of CyberSec Warfare | Builder of Simulated Security Systems  
