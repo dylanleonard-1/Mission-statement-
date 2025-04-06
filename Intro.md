@@ -27,6 +27,16 @@ This project is a fully automated, AI-enhanced simulation of a real-world **Thir
 
 ---
 
+### Analyst Skill Areas Demonstrated
+- Vendor TPRM analysis  
+- Vulnerability Management (CVE tracking, SLA gaps, enrichment)  
+- Data pipeline design  
+- Real-time log ingestion and alerting  
+- Red team simulation input (threat scenarios)  
+- AI-driven automation logic
+
+---
+
 ### Why It Matters  
 This lab replicates an **enterprise-grade cybersecurity process** using only self-built tools and open-source logic. It shows how complex risk operations can be made **trainable, repeatable, and accessible** — even without paid licenses or cloud infrastructure.
 
