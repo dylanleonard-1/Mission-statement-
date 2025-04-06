@@ -1,4 +1,3 @@
-```markdown
 ## CsvGenX – Automated Risk Engine
 
 ![CsvGenX Engine Diagram](https://github.com/dylanleonard-1/Mission-statement-/blob/main/410AB3ED-0D78-45F4-B616-2F782C13C953.jpeg)
