@@ -1,6 +1,6 @@
 # CyberSec Warfare – Project Overview
 
-![CyberSec Warfare Overview](./assets/cybersec_warfare_overview.png)
+![CyberSec Warfare Overview](https://github.com/dylanleonard-1/Mission-statement-/blob/main/8E6467E0-E3F9-4F2D-A4E3-D1ABDF078C52.jpeg)
 
 ### What This Is  
 This project is a fully automated, AI-enhanced simulation of a real-world **Third-Party Risk Management (TPRM)** and **Vulnerability Intelligence** workflow — designed to mirror how enterprise platforms like **ProcessUnity**, **Splunk**, **Power BI**, and **Excel** are used together in modern cybersecurity operations.
