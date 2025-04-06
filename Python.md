@@ -149,3 +149,15 @@ with open(json_path, "w") as f:
 ```
 
 ---
+
+### Output Paths
+
+| Destination      | Purpose                         |
+|------------------|----------------------------------|
+| `inbox/*.csv`    | Power BI-ready CVE logs          |
+| `threatquery.db` | SQLite for local ingestion       |
+| SQL Server       | Reporting backend                |
+| Splunk JSON      | Alert + trend log simulation     |
+
+---
+
