@@ -17,6 +17,16 @@ This project is a fully automated, AI-enhanced simulation of a real-world **Thir
 
 ---
 
+### Tech Stack
+- Red Hat Enterprise Linux 9.5
+- SQL Server (local ingestion and enrichment)
+- Splunk Enterprise + SOAR Integration
+- Power BI (External dashboards)
+- Python automation (DaxForge, CVEGenX)
+- Excel for reconciliation and validation workflows
+
+---
+
 ### Why It Matters  
 This lab replicates an **enterprise-grade cybersecurity process** using only self-built tools and open-source logic. It shows how complex risk operations can be made **trainable, repeatable, and accessible** — even without paid licenses or cloud infrastructure.
 
