@@ -1,8 +1,6 @@
 
 ## CsvGenX – Automated Risk Engine
 
-### CsvGenX – Engine Visualization
-
 ![CsvGenX Engine Diagram](https://github.com/dylanleonard-1/Mission-statement-/blob/main/410AB3ED-0D78-45F4-B616-2F782C13C953.jpeg)
 
 > **Above**: A visual breakdown of CsvGenX – the autonomous risk generator that feeds SQL, Splunk, Power BI, and Excel pipelines with realistic CVE data.*
@@ -168,4 +166,16 @@ with open(json_path, "w") as f:
 | Splunk JSON      | Alert + trend log simulation     |
 
 ---
+
+---
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Home-000000?style=for-the-badge&logo=github&logoColor=white" alt="Home">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/DaxForge_README.md">
+    <img src="https://img.shields.io/badge/Next→-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Next">
+  </a>
+</p>
 
