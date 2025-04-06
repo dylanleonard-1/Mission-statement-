@@ -5,8 +5,7 @@ This project is a fully automated, AI-enhanced simulation of a real-world **Thir
 
 ---
 
-### What You’re Looking At  
-The visual below represents the core modules in action:
+### what we are gonna get into
 
 - **CVE Ingestion** – Automatically generates & enriches CVEs with realistic metadata  
 - **Vendor Analysis** – Tracks SLA gaps, exposure windows, and response status  
