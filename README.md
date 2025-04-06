@@ -82,5 +82,17 @@ Security Builder | Lab Architect | SIEM/SOAR Engineer
 
 ---
 
+---
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Home-000000?style=for-the-badge&logo=github&logoColor=white" alt="Home">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/DaxForge_README.md">
+    <img src="https://img.shields.io/badge/Next→-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Next">
+  </a>
+</p>
+
 > **Trainable. Repeatable. Downloadable.**  
 > This is how we master security — not through access, but through action.
