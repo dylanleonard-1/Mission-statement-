@@ -1,4 +1,11 @@
 # CsvGenX – AI-Powered Risk Simulation Engine  
+
+![CsvGenX Engine Diagram](https://github.com/dylanleonard-1/Mission-statement-/blob/main/410AB3ED-0D78-45F4-B616-2F782C13C953.jpeg)
+
+> **Above**: A visual breakdown of CsvGenX – the autonomous risk generator that feeds SQL, Splunk, Power BI, and Excel pipelines with realistic CVE data.
+
+---
+
 ## Full Code Breakdown + How It Maps to ProcessUnity
 
 Welcome to **CsvGenX**, the Python engine that simulates third-party risk workflows from scratch. It generates realistic CVEs, enriches them using AI-style logic, assigns them to fake vendors, and exports them into SQL, Power BI, and Splunk — just like **ProcessUnity** handles vendor risk scoring, SLA tracking, and alerting.
