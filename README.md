@@ -2,7 +2,7 @@
 
 > **"While others study platforms like ProcessUnity, I reverse-engineer and rebuild them — from ingestion to escalation. No license. No enterprise access. Just raw architecture, full-stack infrastructure, and real results."**
 
-![CyberSec Warfare Mission](https://i.imgur.com/Gg8awBL.png)
+![CyberSec Warfare Mission](https://github.com/dylanleonard-1/Mission-statement-/blob/main/CDC3043E-48D0-44AD-AF3F-DFFD21658683.png)
 
 ---
 
